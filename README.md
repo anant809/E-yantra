@@ -8,6 +8,5 @@ E-yantra project code and dataflow
 # Hardware and Software Requirements
 
 # Process Flow
-https://github.com/anant809/E-yantra/blob/main/RR%20flowchart.jpg
+![RR flowchart](https://user-images.githubusercontent.com/72030784/119257604-9d8a7800-bbe3-11eb-8993-b94e98751bb8.jpg)
 
-# Data Flow
