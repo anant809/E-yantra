@@ -3,10 +3,10 @@ E-yantra project code and dataflow
 
 # Title of the Project
 
-#Description
+# Description
 
-#Hardware and Software Requirements
+# Hardware and Software Requirements
 
-#Process Flow
+# Process Flow
 
-#Data Flow
+# Data Flow
