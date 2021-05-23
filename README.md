@@ -8,6 +8,6 @@ E-yantra project code and dataflow
 # Hardware and Software Requirements
 
 # Process Flow
-![](RR flowchart.jpg)
+RR flowchart.jpg
 
 # Data Flow
