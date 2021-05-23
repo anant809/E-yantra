@@ -68,13 +68,13 @@ void loop()
     {
       Serial.print(" ");
       Serial.println("Green zone = Stable");
-      Serial.println("Asthma is under control");
+      
       }
       else if((pef1>=200)&&(pef1<400))
       {
         Serial.print(" ");
          Serial.println("Yellow zone = caution");
-        Serial.println("Asthma is getting worse");
+        
         }
         else
         {
